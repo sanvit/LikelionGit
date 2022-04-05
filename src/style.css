@@ -1,0 +1,25 @@
+
+body {
+    padding: 10%;
+}
+
+.s-title {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.orange {
+    color: #E85B31;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.block {
+    margin-top: 100px;
+}
+
+.question {
+    font-size: 18pt;
+}
