@@ -23,3 +23,19 @@ body {
 .question {
     font-size: 18pt;
 }
+
+ul {
+    list-style: none;
+    line-height: 1.8;
+}
+
+.puzzle {
+    width: 1024px;
+}
+
+iframe {
+    width: 1280px;
+    height: 720px;
+    border: 0;
+}
+
